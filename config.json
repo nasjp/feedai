@@ -1,0 +1,55 @@
+{
+  "prompt": "",
+  "feeds": [
+    {
+      "url": "https://yamadashy.github.io/tech-blog-rss-feed/feeds/rss.xml",
+      "extract_content": true
+    },
+    {
+      "url": "https://feeds.feedburner.com/GoogleJapanDeveloperRelationsBlog?format=xml",
+      "extract_content": true
+    },
+    { "url": "https://dev.classmethod.jp/feed/", "extract_content": true },
+    {
+      "url": "https://github.com/golang/go/releases.atom",
+      "extract_content": true
+    },
+    {
+      "url": "https://developer.apple.com/news/rss/news.rss",
+      "extract_content": true
+    },
+    { "url": "https://bspeak.substack.com/feed", "extract_content": true },
+    {
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "extract_content": true
+    },
+    {
+      "url": "https://www.wired.com/feed/category/gear/latest/rss",
+      "extract_content": true
+    },
+    {
+      "url": "https://rss.itmedia.co.jp/rss/2.0/ait.xml",
+      "extract_content": true
+    },
+    {
+      "url": "https://rss.itmedia.co.jp/rss/2.0/tt_business.xml",
+      "extract_content": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/rss/index.xml",
+      "extract_content": true
+    },
+    {
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "extract_content": true
+    },
+    { "url": "https://techcrunch.com/feed/", "extract_content": true },
+    { "url": "https://gigazine.net/news/rss_2.0/", "extract_content": true }
+  ],
+  "slack": {
+    "channel": "#tech-news-feed-ai"
+  },
+  "openai": {
+    "organization_id": "org-JbADzG1hRpzCDN8FK2TRgbSC"
+  }
+}
